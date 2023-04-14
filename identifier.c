@@ -46,6 +46,6 @@ int main(void) {
   }
   else {
     printf("Invalido\n");
-    return 1;
+    return 1; 
   }
 }
